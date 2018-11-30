@@ -1,6 +1,6 @@
 # O mnie
 
-**Maciej Walczak**
+## Maciej Walczak
 
 Front-End Development Team Leader
 
@@ -18,3 +18,13 @@ Blue Media S.A.
 ## Kontakt
 * mac.webcoder@gmail.com
 * https://nowoczesny-frontend.pl
+
+
+# Cele szkolenia
+* Szkoleniowy: zapoznanie się z technologiami frontendowymi
+  * HTML/CSS
+  * Java Script
+  * Type Script
+* Praktyczny: stworzenie stron www realizujących:
+  * kalkulator
+  * obsługę koszyka zakupów
